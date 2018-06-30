@@ -21,9 +21,9 @@ div#wall #tag-2 {
 }
 
 div#wall div.parent div:last-child div#tag-6 {
-  display: block;
+  display: none;
 }
 
 body div#wall div.parent div:first-child > div#tag-7.slick {
-  display: none;
+  display: block;
 }
